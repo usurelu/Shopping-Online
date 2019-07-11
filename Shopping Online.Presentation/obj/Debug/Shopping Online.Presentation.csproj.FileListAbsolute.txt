@@ -1,0 +1,36 @@
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Presentation.exe.config
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Presentation.exe
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Presentation.pdb
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Presentation\obj\Debug\Shopping Online.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Presentation\obj\Debug\Shopping Online.Presentation.exe
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Presentation\obj\Debug\Shopping Online.Presentation.pdb
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Services.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Repository.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Services.pdb
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.pdb
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Repository.pdb
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\log4net.dll
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\log4net.xml
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Contracts.dll
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Contracts.pdb
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Presentation.exe.config
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Presentation.exe
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Presentation.pdb
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\log4net.dll
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Contracts.dll
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Services.dll
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Repository.dll
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.dll
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Contracts.pdb
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Services.pdb
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\log4net.xml
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.Repository.pdb
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.pdb
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.dll.config
+F:\Shopping Online\Shopping Online.Presentation\bin\Debug\Shopping Online.exe.config
+F:\Shopping Online\Shopping Online.Presentation\obj\Debug\Shopping Online.Presentation.csprojResolveAssemblyReference.cache
+F:\Shopping Online\Shopping Online.Presentation\obj\Debug\Shopping Online.Presentation.csproj.CoreCompileInputs.cache
+F:\Shopping Online\Shopping Online.Presentation\obj\Debug\Shopping Online.Presentation.csproj.CopyComplete
+F:\Shopping Online\Shopping Online.Presentation\obj\Debug\Shopping Online.Presentation.exe
+F:\Shopping Online\Shopping Online.Presentation\obj\Debug\Shopping Online.Presentation.pdb

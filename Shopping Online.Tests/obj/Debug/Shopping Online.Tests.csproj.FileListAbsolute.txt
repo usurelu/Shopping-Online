@@ -1,0 +1,14 @@
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Tests\bin\Debug\Shopping Online.Tests.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Tests\bin\Debug\Shopping Online.Tests.pdb
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Tests\bin\Debug\Shopping Online.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Tests\bin\Debug\Shopping Online.Repository.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Tests\bin\Debug\Shopping Online.Repository.pdb
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Tests\bin\Debug\Shopping Online.pdb
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Tests\obj\Debug\Shopping Online.Tests.csprojResolveAssemblyReference.cache
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Tests\obj\Debug\Shopping Online.Tests.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Tests\obj\Debug\Shopping Online.Tests.pdb
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Tests\bin\Debug\Shopping Online.Services.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Tests\bin\Debug\Shopping Online.Services.pdb
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Tests\bin\Debug\log4net.dll
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Tests\bin\Debug\log4net.xml

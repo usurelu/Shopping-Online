@@ -1,0 +1,22 @@
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Repository\bin\Debug\Shopping Online.Repository.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Repository\bin\Debug\Shopping Online.Repository.pdb
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Repository\bin\Debug\Shopping Online.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Repository\bin\Debug\Shopping Online.pdb
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Repository\obj\Debug\Shopping Online.Repository.csprojResolveAssemblyReference.cache
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Repository\obj\Debug\Shopping Online.Repository.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online.Repository\obj\Debug\Shopping Online.Repository.pdb
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Repository\bin\Debug\log4net.dll
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Repository\bin\Debug\log4net.xml
+F:\Shopping Online\Shopping Online.Repository\bin\Debug\Shopping Online.Repository.dll
+F:\Shopping Online\Shopping Online.Repository\bin\Debug\Shopping Online.Repository.pdb
+F:\Shopping Online\Shopping Online.Repository\bin\Debug\log4net.dll
+F:\Shopping Online\Shopping Online.Repository\bin\Debug\Shopping Online.dll
+F:\Shopping Online\Shopping Online.Repository\bin\Debug\Shopping Online.pdb
+F:\Shopping Online\Shopping Online.Repository\bin\Debug\Shopping Online.dll.config
+F:\Shopping Online\Shopping Online.Repository\bin\Debug\Shopping Online.exe.config
+F:\Shopping Online\Shopping Online.Repository\bin\Debug\log4net.xml
+F:\Shopping Online\Shopping Online.Repository\obj\Debug\Shopping Online.Repository.csprojResolveAssemblyReference.cache
+F:\Shopping Online\Shopping Online.Repository\obj\Debug\Shopping Online.Repository.csproj.CoreCompileInputs.cache
+F:\Shopping Online\Shopping Online.Repository\obj\Debug\Shopping Online.Repository.csproj.CopyComplete
+F:\Shopping Online\Shopping Online.Repository\obj\Debug\Shopping Online.Repository.dll
+F:\Shopping Online\Shopping Online.Repository\obj\Debug\Shopping Online.Repository.pdb

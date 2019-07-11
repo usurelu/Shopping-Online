@@ -1,0 +1,506 @@
+
+2015-11-11 13:01:18,663 [thread 7] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-11 13:01:27,037 [thread 7] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-11 13:01:32,451 [thread 8] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-11 13:15:33,418 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-11 13:15:33,463 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 28] [identity ] Incarc entitatile din fisier
+
+2015-11-11 13:15:33,563 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 28] [identity ] Incarc entitatile din fisier
+
+2015-11-11 13:15:33,577 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 28] [identity ] Incarc entitatile din fisier
+
+2015-11-11 13:15:33,590 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 34] [identity ] Populating Mainmenu
+
+2015-11-11 13:15:34,522 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 1
+
+2015-11-11 13:15:38,195 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 80] [identity ] Adauga user: Test 333 1
+
+2015-11-11 13:15:38,196 [thread 9] INFO Shopping_Online.Services.User.UserService [line 28] [identity ] Adauga user: Test 333 1
+
+2015-11-11 13:15:38,196 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 60] [identity ] Adaug entitate: 0
+
+2015-11-11 13:15:38,197 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 34] [identity ] Adaug entitate: 0
+
+2015-11-11 13:15:38,197 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 16] [identity ] Returnez numarul de entitati
+
+2015-11-11 13:15:38,197 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 50] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:11:45,485 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:11:45,701 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 28] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:11:46,927 [thread 9] ERROR Shopping_Online.Presentation.Program [line 28] [identity ] An error occurred: The type System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[Shopping_Online.Entities.Order, Shopping Online, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] is not supported because it implements IDictionary.
+System.NotSupportedException: The type System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[Shopping_Online.Entities.Order, Shopping Online, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] is not supported because it implements IDictionary.
+   at System.Xml.Serialization.TypeScope.GetDefaultIndexer(Type type, String memberInfo)
+   at System.Xml.Serialization.TypeScope.ImportTypeDesc(Type type, MemberInfo memberInfo, Boolean directReference)
+   at System.Xml.Serialization.TypeScope.GetTypeDesc(Type type, MemberInfo source, Boolean directReference, Boolean throwOnError)
+   at System.Xml.Serialization.ModelScope.GetTypeModel(Type type, Boolean directReference)
+   at System.Xml.Serialization.XmlReflectionImporter.ImportTypeMapping(Type type, XmlRootAttribute root, String defaultNamespace)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   at Shopping_Online.Repository.File.FileRepository`1.LoadEntities() in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Repository\File\FileRepository.cs:line 32
+   at Shopping_Online.Repository.File.FileRepository`1..ctor(String filePath) in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Repository\File\FileRepository.cs:line 23
+   at Shopping_Online.Repository.UnitOfWork.FileUnitOfWork..ctor() in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Repository\UnitOfWork\FileUnitOfWork.cs:line 14
+   at Shopping_Online.Services.ServiceFactory..ctor() in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Services\ServiceFactory.cs:line 16
+   at Shopping_Online.Presentation.Program.Main() in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Presentation\Program.cs:line 20
+
+2015-11-12 20:11:46,932 [thread 9] INFO Shopping_Online.Presentation.Program [line 31] [identity ] Main STOP
+
+2015-11-12 20:14:08,391 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:14:08,714 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:14:24,103 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:14:31,155 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:14:52,579 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:14:52,614 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:15:02,888 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:15:06,284 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:15:35,225 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:15:35,247 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:15:35,644 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 39] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:15:35,644 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:15:35,662 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 39] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:15:35,662 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:15:35,678 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 39] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:15:35,680 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 34] [identity ] Populating Mainmenu
+
+2015-11-12 20:15:37,580 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 1
+
+2015-11-12 20:15:40,956 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 80] [identity ] Adauga user: admin 12345 1
+
+2015-11-12 20:15:40,956 [thread 9] INFO Shopping_Online.Services.User.UserService [line 28] [identity ] Adauga user: admin 12345 1
+
+2015-11-12 20:15:40,957 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 60] [identity ] Adaug entitate
+
+2015-11-12 20:15:40,958 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 34] [identity ] Adaug entitate: 0
+
+2015-11-12 20:15:40,958 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 50] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:15:41,030 [thread 9] ERROR Shopping_Online.Presentation.ControllerMainMenu [line 87] [identity ] Eroare la adaugarea userului
+System.InvalidOperationException: There was an error generating the XML document. ---> System.InvalidCastException: Unable to cast object of type 'ValueCollection[System.Int32,Shopping_Online.Entities.User]' to type 'System.Collections.Generic.List`1[Shopping_Online.Entities.User]'.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationWriterList1.Write4_ArrayOfUser(Object o)
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Serialize(XmlWriter xmlWriter, Object o, XmlSerializerNamespaces namespaces, String encodingStyle, String id)
+   at System.Xml.Serialization.XmlSerializer.Serialize(TextWriter textWriter, Object o, XmlSerializerNamespaces namespaces)
+   at System.Xml.Serialization.XmlSerializer.Serialize(TextWriter textWriter, Object o)
+   at Shopping_Online.Repository.File.FileRepository`1.SaveEntities() in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Repository\File\FileRepository.cs:line 54
+   at Shopping_Online.Repository.File.FileRepository`1.Add(T entity) in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Repository\File\FileRepository.cs:line 62
+   at Shopping_Online.Services.User.UserService.Add(String username, String password, Int32 userCategoryID) in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Services\User\UserService.cs:line 34
+   at Shopping_Online.Presentation.ControllerMainMenu.AddUser(String username, String password, String userCategory) in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Presentation\ControllerMainMenu.cs:line 83
+
+2015-11-12 20:15:52,755 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 1
+
+2015-11-12 20:15:55,612 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 80] [identity ] Adauga user: admin 12345 1
+
+2015-11-12 20:15:55,612 [thread 9] INFO Shopping_Online.Services.User.UserService [line 28] [identity ] Adauga user: admin 12345 1
+
+2015-11-12 20:15:55,612 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 60] [identity ] Adaug entitate
+
+2015-11-12 20:15:55,612 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 34] [identity ] Adaug entitate: 0
+
+2015-11-12 20:15:58,702 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 50] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:16:44,295 [thread 10] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:16:44,448 [thread 10] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:16:44,563 [thread 10] INFO Shopping_Online.Repository.File.FileRepository`1 [line 39] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:16:44,563 [thread 10] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:16:44,672 [thread 10] INFO Shopping_Online.Repository.File.FileRepository`1 [line 39] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:16:44,672 [thread 10] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:16:44,773 [thread 10] INFO Shopping_Online.Repository.File.FileRepository`1 [line 39] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:16:44,775 [thread 10] INFO Shopping_Online.Presentation.ControllerMainMenu [line 34] [identity ] Populating Mainmenu
+
+2015-11-12 20:16:46,091 [thread 10] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 1
+
+2015-11-12 20:16:48,595 [thread 10] INFO Shopping_Online.Presentation.ControllerMainMenu [line 80] [identity ] Adauga user: admin 12345 1
+
+2015-11-12 20:16:48,596 [thread 10] INFO Shopping_Online.Services.User.UserService [line 28] [identity ] Adauga user: admin 12345 1
+
+2015-11-12 20:16:48,596 [thread 10] INFO Shopping_Online.Repository.File.FileRepository`1 [line 60] [identity ] Adaug entitate
+
+2015-11-12 20:16:48,597 [thread 10] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 34] [identity ] Adaug entitate: 0
+
+2015-11-12 20:16:48,597 [thread 10] INFO Shopping_Online.Repository.File.FileRepository`1 [line 50] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:16:48,691 [thread 10] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 
+
+2015-11-12 20:16:50,819 [thread 10] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 1
+
+2015-11-12 20:16:54,315 [thread 10] INFO Shopping_Online.Presentation.ControllerMainMenu [line 80] [identity ] Adauga user: admin2 12345 2
+
+2015-11-12 20:16:54,315 [thread 10] INFO Shopping_Online.Services.User.UserService [line 28] [identity ] Adauga user: admin2 12345 2
+
+2015-11-12 20:16:54,315 [thread 10] INFO Shopping_Online.Repository.File.FileRepository`1 [line 60] [identity ] Adaug entitate
+
+2015-11-12 20:16:54,315 [thread 10] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 34] [identity ] Adaug entitate: 0
+
+2015-11-12 20:16:54,316 [thread 10] INFO Shopping_Online.Repository.File.FileRepository`1 [line 50] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:17:21,379 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:17:21,414 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:17:21,498 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 39] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:17:21,498 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:17:21,515 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 39] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:17:21,516 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:17:21,552 [thread 9] ERROR Shopping_Online.Presentation.Program [line 28] [identity ] An error occurred: An item with the same key has already been added.
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector)
+   at Shopping_Online.Repository.File.FileRepository`1.LoadEntities() in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Repository\File\FileRepository.cs:line 34
+   at Shopping_Online.Repository.File.FileRepository`1..ctor(String filePath) in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Repository\File\FileRepository.cs:line 24
+   at Shopping_Online.Repository.UnitOfWork.FileUnitOfWork..ctor() in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Repository\UnitOfWork\FileUnitOfWork.cs:line 16
+   at Shopping_Online.Services.ServiceFactory..ctor() in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Services\ServiceFactory.cs:line 16
+   at Shopping_Online.Presentation.Program.Main() in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Presentation\Program.cs:line 20
+
+2015-11-12 20:17:21,592 [thread 9] INFO Shopping_Online.Presentation.Program [line 31] [identity ] Main STOP
+
+2015-11-12 20:19:41,539 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:19:41,704 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:19:41,902 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 39] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:19:41,902 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:19:41,930 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 39] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:19:41,930 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:19:41,948 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 39] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:19:41,950 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 34] [identity ] Populating Mainmenu
+
+2015-11-12 20:19:42,986 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 1
+
+2015-11-12 20:19:44,922 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 80] [identity ] Adauga user: a 1 1
+
+2015-11-12 20:19:44,923 [thread 9] INFO Shopping_Online.Services.User.UserService [line 28] [identity ] Adauga user: a 1 1
+
+2015-11-12 20:19:44,923 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 60] [identity ] Adaug entitate
+
+2015-11-12 20:19:44,924 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 34] [identity ] Adaug entitate: 0
+
+2015-11-12 20:19:44,924 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 50] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:19:44,937 [thread 9] ERROR Shopping_Online.Presentation.ControllerMainMenu [line 87] [identity ] Eroare la adaugarea userului
+System.InvalidOperationException: Cannot deserialize type 'Shopping_Online.Entities.User' because it contains property 'ID' which has no public setter.
+   at System.Xml.Serialization.TypeScope.GetSettableMembers(StructMapping mapping, ArrayList list)
+   at System.Xml.Serialization.TypeScope.GetSettableMembers(StructMapping structMapping)
+   at System.Xml.Serialization.TypeScope.GetSettableMembers(StructMapping mapping, Dictionary`2 memberInfos)
+   at System.Xml.Serialization.XmlSerializationReaderILGen.WriteLiteralStructMethod(StructMapping structMapping)
+   at System.Xml.Serialization.XmlSerializationReaderILGen.GenerateMethod(TypeMapping mapping)
+   at System.Xml.Serialization.XmlSerializationILGen.GenerateReferencedMethods()
+   at System.Xml.Serialization.XmlSerializationReaderILGen.GenerateEnd(String[] methods, XmlMapping[] xmlMappings, Type[] types)
+   at System.Xml.Serialization.TempAssembly.GenerateRefEmitAssembly(XmlMapping[] xmlMappings, Type[] types, String defaultNamespace, Evidence evidence)
+   at System.Xml.Serialization.TempAssembly..ctor(XmlMapping[] xmlMappings, Type[] types, String defaultNamespace, String location, Evidence evidence)
+   at System.Xml.Serialization.XmlSerializer.GenerateTempAssembly(XmlMapping xmlMapping, Type type, String defaultNamespace)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type, String defaultNamespace)
+   at System.Xml.Serialization.XmlSerializer..ctor(Type type)
+   at Shopping_Online.Repository.File.FileRepository`1.SaveEntities() in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Repository\File\FileRepository.cs:line 51
+   at Shopping_Online.Repository.File.FileRepository`1.Add(T entity) in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Repository\File\FileRepository.cs:line 62
+   at Shopping_Online.Services.User.UserService.Add(String username, String password, Int32 userCategoryID) in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Services\User\UserService.cs:line 34
+   at Shopping_Online.Presentation.ControllerMainMenu.AddUser(String username, String password, String userCategory) in C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Presentation\ControllerMainMenu.cs:line 83
+
+2015-11-12 20:28:33,359 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:28:33,542 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:28:33,608 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 43] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:28:33,609 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:28:33,632 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 43] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:28:33,632 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:28:33,658 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 43] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:28:33,659 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 34] [identity ] Populating Mainmenu
+
+2015-11-12 20:28:41,445 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 1
+
+2015-11-12 20:28:42,869 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 80] [identity ] Adauga user: a 1 1
+
+2015-11-12 20:28:42,870 [thread 9] INFO Shopping_Online.Services.User.UserService [line 28] [identity ] Adauga user: a 1 1
+
+2015-11-12 20:28:42,871 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 64] [identity ] Adaug entitate
+
+2015-11-12 20:28:42,871 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 36] [identity ] Adaug entitate: 0
+
+2015-11-12 20:28:42,872 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 54] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:28:44,029 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 1
+
+2015-11-12 20:28:45,165 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 80] [identity ] Adauga user: a 2 2
+
+2015-11-12 20:28:45,165 [thread 9] INFO Shopping_Online.Services.User.UserService [line 28] [identity ] Adauga user: a 2 2
+
+2015-11-12 20:28:45,165 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 64] [identity ] Adaug entitate
+
+2015-11-12 20:28:45,165 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 36] [identity ] Adaug entitate: 0
+
+2015-11-12 20:28:45,165 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 54] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:28:57,046 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:28:57,089 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:28:57,233 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 43] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:28:57,233 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:28:57,309 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 43] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:28:57,310 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:28:57,373 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 34] [identity ] Populating Mainmenu
+
+2015-11-12 20:28:59,389 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 2
+
+2015-11-12 20:29:01,717 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 96] [identity ] Sterge user cu id-ul: 1
+
+2015-11-12 20:29:01,718 [thread 9] INFO Shopping_Online.Services.User.UserService [line 39] [identity ] Sterge user cu id-ul: 1
+
+2015-11-12 20:29:01,718 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 22] [identity ] Returnez entitatea cu id-ul: 1
+
+2015-11-12 20:29:01,719 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 71] [identity ] Sterg entitate: 1
+
+2015-11-12 20:29:01,719 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 46] [identity ] Sterg entitate: 1
+
+2015-11-12 20:29:01,719 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 54] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:29:14,849 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:29:14,870 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:29:14,946 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 43] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:29:14,946 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:29:14,968 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 43] [identity ] Nu am gasit entitati, incarc lista goala
+
+2015-11-12 20:29:14,969 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:29:14,982 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 34] [identity ] Populating Mainmenu
+
+2015-11-12 20:29:17,797 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 3
+
+2015-11-12 20:29:22,301 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 112] [identity ] Adauga produs : Product 23
+
+2015-11-12 20:29:22,302 [thread 9] INFO Shopping_Online.Services.Product.ProductService [line 27] [identity ] Adauga produs : Product 23
+
+2015-11-12 20:29:22,303 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 64] [identity ] Adaug entitate
+
+2015-11-12 20:29:22,303 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 36] [identity ] Adaug entitate: 0
+
+2015-11-12 20:29:22,304 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 54] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:29:23,836 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 5
+
+2015-11-12 20:29:27,469 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 144] [identity ] Adauga comanda : 0 0 12 2
+
+2015-11-12 20:29:30,455 [thread 9] INFO Shopping_Online.Services.Order.OrderService [line 28] [identity ] Adauga comanda : 0 0 12 2
+
+2015-11-12 20:29:30,455 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 22] [identity ] Returnez entitatea cu id-ul: 0
+
+2015-11-12 20:29:30,456 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 22] [identity ] Returnez entitatea cu id-ul: 0
+
+2015-11-12 20:29:30,456 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 64] [identity ] Adaug entitate
+
+2015-11-12 20:29:30,457 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 36] [identity ] Adaug entitate: 0
+
+2015-11-12 20:29:30,457 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 54] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:29:33,877 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 6
+
+2015-11-12 20:29:34,189 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 164] [identity ] Afisez comenzile de tipul : 2
+
+2015-11-12 20:29:34,189 [thread 9] INFO Shopping_Online.Services.Order.OrderService [line 42] [identity ] Returnez comenzile de tipul : 2
+
+2015-11-12 20:29:34,190 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 30] [identity ] Returnez lista de entitati
+
+2015-11-12 20:35:42,770 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:35:42,797 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:35:42,928 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:35:43,054 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:35:43,129 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 34] [identity ] Populating Mainmenu
+
+2015-11-12 20:35:45,058 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 5
+
+2015-11-12 20:35:49,842 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 144] [identity ] Adauga comanda : 0 0 22 1
+
+2015-11-12 20:35:49,843 [thread 9] INFO Shopping_Online.Services.Order.OrderService [line 29] [identity ] Adauga comanda : 0 0 22 1
+
+2015-11-12 20:35:49,991 [thread 11] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 22] [identity ] Returnez entitatea cu id-ul: 0
+
+2015-11-12 20:35:49,991 [thread 10] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 22] [identity ] Returnez entitatea cu id-ul: 0
+
+2015-11-12 20:35:50,012 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 64] [identity ] Adaug entitate
+
+2015-11-12 20:35:50,013 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 36] [identity ] Adaug entitate: 0
+
+2015-11-12 20:35:50,013 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 54] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:35:51,633 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 6
+
+2015-11-12 20:35:51,850 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 164] [identity ] Afisez comenzile de tipul : 1
+
+2015-11-12 20:35:51,850 [thread 9] INFO Shopping_Online.Services.Order.OrderService [line 54] [identity ] Returnez comenzile de tipul : 1
+
+2015-11-12 20:35:51,851 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 30] [identity ] Returnez lista de entitati
+
+2015-11-12 20:37:59,640 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:37:59,670 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:37:59,746 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:37:59,819 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:37:59,861 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 34] [identity ] Populating Mainmenu
+
+2015-11-12 20:38:01,432 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 6
+
+2015-11-12 20:38:02,833 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 164] [identity ] Afisez comenzile de tipul : 2
+
+2015-11-12 20:38:02,834 [thread 9] INFO Shopping_Online.Services.Order.OrderService [line 54] [identity ] Returnez comenzile de tipul : 2
+
+2015-11-12 20:38:02,834 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 30] [identity ] Returnez lista de entitati
+
+2015-11-12 20:38:04,497 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 3
+
+2015-11-12 20:38:07,424 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 112] [identity ] Adauga produs : Test 123
+
+2015-11-12 20:38:07,425 [thread 9] INFO Shopping_Online.Services.Product.ProductService [line 28] [identity ] Adauga produs : Test 123
+
+2015-11-12 20:38:07,425 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 64] [identity ] Adaug entitate
+
+2015-11-12 20:38:07,426 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 36] [identity ] Adaug entitate: 0
+
+2015-11-12 20:38:07,426 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 54] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:38:09,665 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 6
+
+2015-11-12 20:38:11,280 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 164] [identity ] Afisez comenzile de tipul : 2
+
+2015-11-12 20:38:11,281 [thread 9] INFO Shopping_Online.Services.Order.OrderService [line 54] [identity ] Returnez comenzile de tipul : 2
+
+2015-11-12 20:38:11,281 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 30] [identity ] Returnez lista de entitati
+
+2015-11-12 20:38:12,720 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 5
+
+2015-11-12 20:38:16,312 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 144] [identity ] Adauga comanda : 0 1 12 1
+
+2015-11-12 20:38:16,313 [thread 9] INFO Shopping_Online.Services.Order.OrderService [line 29] [identity ] Adauga comanda : 0 1 12 1
+
+2015-11-12 20:38:16,321 [thread 10] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 22] [identity ] Returnez entitatea cu id-ul: 1
+
+2015-11-12 20:38:16,321 [thread 11] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 22] [identity ] Returnez entitatea cu id-ul: 0
+
+2015-11-12 20:38:16,322 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 64] [identity ] Adaug entitate
+
+2015-11-12 20:38:16,322 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 36] [identity ] Adaug entitate: 0
+
+2015-11-12 20:38:16,323 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 54] [identity ] Salvez entitatile in fisier
+
+2015-11-12 20:38:17,665 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 6
+
+2015-11-12 20:38:17,849 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 164] [identity ] Afisez comenzile de tipul : 1
+
+2015-11-12 20:38:17,849 [thread 9] INFO Shopping_Online.Services.Order.OrderService [line 54] [identity ] Returnez comenzile de tipul : 1
+
+2015-11-12 20:38:17,849 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 30] [identity ] Returnez lista de entitati
+
+2015-11-12 20:53:24,123 [thread 9] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:53:24,883 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:53:26,119 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:53:26,133 [thread 9] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:53:26,148 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 35] [identity ] Populating Mainmenu
+
+2015-11-12 20:53:28,881 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 61] [identity ] Setting option: 6
+
+2015-11-12 20:53:29,147 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 165] [identity ] Afisez comenzile de tipul : 1
+
+2015-11-12 20:53:29,148 [thread 9] INFO Shopping_Online.Services.Order.OrderService [line 55] [identity ] Returnez comenzile de tipul : 1
+
+2015-11-12 20:53:29,149 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 30] [identity ] Returnez lista de entitati
+
+2015-11-12 20:53:31,569 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 61] [identity ] Setting option: 6
+
+2015-11-12 20:53:31,841 [thread 9] INFO Shopping_Online.Presentation.ControllerMainMenu [line 165] [identity ] Afisez comenzile de tipul : 2
+
+2015-11-12 20:53:31,841 [thread 9] INFO Shopping_Online.Services.Order.OrderService [line 55] [identity ] Returnez comenzile de tipul : 2
+
+2015-11-12 20:53:31,841 [thread 9] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 30] [identity ] Returnez lista de entitati
+
+2015-11-12 20:55:19,992 [thread 8] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2015-11-12 20:55:20,032 [thread 8] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:55:20,196 [thread 8] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:55:20,234 [thread 8] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2015-11-12 20:55:20,255 [thread 8] INFO Shopping_Online.Presentation.ControllerMainMenu [line 34] [identity ] Populating Mainmenu
+
+2019-07-11 20:19:26,741 [thread 1] INFO Shopping_Online.Presentation.Program [line 19] [identity ] Main START
+
+2019-07-11 20:19:27,484 [thread 1] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2019-07-11 20:19:28,152 [thread 1] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2019-07-11 20:19:28,198 [thread 1] INFO Shopping_Online.Repository.File.FileRepository`1 [line 29] [identity ] Incarc entitatile din fisier
+
+2019-07-11 20:19:28,251 [thread 1] INFO Shopping_Online.Presentation.ControllerMainMenu [line 34] [identity ] Populating Mainmenu
+
+2019-07-11 20:19:43,357 [thread 1] INFO Shopping_Online.Presentation.ControllerMainMenu [line 60] [identity ] Setting option: 1
+
+2019-07-11 20:19:51,728 [thread 1] INFO Shopping_Online.Presentation.ControllerMainMenu [line 80] [identity ] Adauga user: Daniel parola 1
+
+2019-07-11 20:19:51,729 [thread 1] INFO Shopping_Online.Services.User.UserService [line 29] [identity ] Adauga user: Daniel parola 1
+
+2019-07-11 20:19:51,732 [thread 1] INFO Shopping_Online.Repository.File.FileRepository`1 [line 64] [identity ] Adaug entitate
+
+2019-07-11 20:19:51,733 [thread 1] INFO Shopping_Online.Repository.InMemory.InMemoryRepository`1 [line 36] [identity ] Adaug entitate: 0
+
+2019-07-11 20:19:51,735 [thread 1] INFO Shopping_Online.Repository.File.FileRepository`1 [line 54] [identity ] Salvez entitatile in fisier

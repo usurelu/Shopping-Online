@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Name>Product</Name>
+    <Price>23</Price>
+  </Product>
+  <Product>
+    <Name>Test</Name>
+    <Price>123</Price>
+  </Product>
+</ArrayOfProduct>

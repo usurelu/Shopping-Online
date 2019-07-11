@@ -1,0 +1,11 @@
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Contracts\bin\Debug\Shopping Online.Contracts.dll
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Contracts\bin\Debug\Shopping Online.Contracts.pdb
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Contracts\obj\Debug\Shopping Online.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Contracts\obj\Debug\Shopping Online.Contracts.dll
+C:\Users\teuca\Documents\Visual Studio 2015\Projects\Shopping Online\Shopping Online.Contracts\obj\Debug\Shopping Online.Contracts.pdb
+F:\Shopping Online\Shopping Online.Contracts\bin\Debug\Shopping Online.Contracts.dll
+F:\Shopping Online\Shopping Online.Contracts\bin\Debug\Shopping Online.Contracts.pdb
+F:\Shopping Online\Shopping Online.Contracts\obj\Debug\Shopping Online.Contracts.csprojResolveAssemblyReference.cache
+F:\Shopping Online\Shopping Online.Contracts\obj\Debug\Shopping Online.Contracts.csproj.CoreCompileInputs.cache
+F:\Shopping Online\Shopping Online.Contracts\obj\Debug\Shopping Online.Contracts.dll
+F:\Shopping Online\Shopping Online.Contracts\obj\Debug\Shopping Online.Contracts.pdb

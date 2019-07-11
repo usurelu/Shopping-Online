@@ -1,0 +1,13 @@
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online\bin\Debug\Shopping Online.dll.config
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online\bin\Debug\Shopping Online.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online\bin\Debug\Shopping Online.pdb
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online\obj\Debug\Shopping Online.dll
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online\obj\Debug\Shopping Online.pdb
+C:\Users\teuca\documents\visual studio 2015\Projects\Shopping Online\Shopping Online\obj\Debug\Shopping Online.Domain.csprojResolveAssemblyReference.cache
+F:\Shopping Online\Shopping Online\bin\Debug\Shopping Online.dll.config
+F:\Shopping Online\Shopping Online\bin\Debug\Shopping Online.dll
+F:\Shopping Online\Shopping Online\bin\Debug\Shopping Online.pdb
+F:\Shopping Online\Shopping Online\obj\Debug\Shopping Online.Domain.csprojResolveAssemblyReference.cache
+F:\Shopping Online\Shopping Online\obj\Debug\Shopping Online.Domain.csproj.CoreCompileInputs.cache
+F:\Shopping Online\Shopping Online\obj\Debug\Shopping Online.dll
+F:\Shopping Online\Shopping Online\obj\Debug\Shopping Online.pdb

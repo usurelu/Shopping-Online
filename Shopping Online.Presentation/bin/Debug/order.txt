@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <User>
+      <Username>a</Username>
+      <Password>1</Password>
+      <Category>FreeUser</Category>
+    </User>
+    <Product>
+      <Name>Product</Name>
+      <Price>23</Price>
+    </Product>
+    <Quantity>12</Quantity>
+    <ShippingType>PaidShipping</ShippingType>
+  </Order>
+  <Order>
+    <User>
+      <Username>a</Username>
+      <Password>1</Password>
+      <Category>FreeUser</Category>
+    </User>
+    <Product>
+      <Name>Product</Name>
+      <Price>23</Price>
+    </Product>
+    <Quantity>22</Quantity>
+    <ShippingType>FreeShipping</ShippingType>
+  </Order>
+  <Order>
+    <User>
+      <Username>a</Username>
+      <Password>1</Password>
+      <Category>FreeUser</Category>
+    </User>
+    <Product>
+      <Name>Test</Name>
+      <Price>123</Price>
+    </Product>
+    <Quantity>12</Quantity>
+    <ShippingType>FreeShipping</ShippingType>
+  </Order>
+</ArrayOfOrder>
